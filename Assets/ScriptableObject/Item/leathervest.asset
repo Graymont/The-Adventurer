@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e34cffa6a2b6445b4ad5120f5e7e63, type: 3}
+  m_Name: leathervest
+  m_EditorClassIdentifier: 
+  name: leathervest
+  displayname: Leather Vest
+  sprite: {fileID: 21300000, guid: 0d525aad51b204a4c928cd2af932b4ea, type: 3}
+  inventoryDisplay: {fileID: 21300000, guid: e799f563a5a7c8d4997ba050f712c454, type: 3}
+  id: 0
+  sort: 0
+  type: 1
+  combatStyle: 0
+  damageMin: 0
+  damageMax: 0
+  criticalChance: 0
+  projectileDamage: 0
+  spellDamage: 0
+  attackSpeed: 0
+  attackRange: 0
+  projectileSpeed: 0
+  health: 0
+  armor: 0
+  movementSpeed: 0
+  projectile: {fileID: 0}
+  strength: 0
+  dexterity: 0
+  agility: 0
+  intelligence: 0
+  size: {x: 0.23457803, y: 0.26354235}
+  post: {x: 0.0048, y: -0.0616}
+  size2: {x: 0, y: 0}
+  post2: {x: 0, y: 0}
+  resize: 1
+  repost: 1
+  idleAnimated: 0
+  stackable: 0

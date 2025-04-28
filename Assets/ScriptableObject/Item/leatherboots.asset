@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e34cffa6a2b6445b4ad5120f5e7e63, type: 3}
+  m_Name: leatherboots
+  m_EditorClassIdentifier: 
+  name: leatherboots
+  displayname: Leather Boots
+  sprite: {fileID: 21300000, guid: ffdcba52c0b24c343a864c71f3489949, type: 3}
+  inventoryDisplay: {fileID: 21300000, guid: 0d6cc0eeb48f0674080feec44fcb4f4d, type: 3}
+  id: 5
+  sort: 3
+  level: 0
+  type: 3
+  category: 9
+  combatStyle: 0
+  rarity: 0
+  damageMin: 0
+  damageMax: 0
+  attackSpeed: 0
+  attackRange: 0
+  health: 25
+  mana: 0
+  armor: 0
+  projectile: {fileID: 0}
+  projectileSpeed: 0
+  rarityDrop: 0
+  attackSpeedBonus: []
+  criticalChance: []
+  criticalDamage: []
+  spellDamage: []
+  healthRegen: []
+  manaRegen: []
+  movementSpeed: []
+  strength: []
+  dexterity: []
+  agility: []
+  intelligence: []
+  description: 
+  size: {x: 0.073910005, y: 0.1439935, z: 0}
+  post: {x: 0.0028, y: -0.051, z: 0}
+  size2: {x: 0.07391001, y: 0.1439935, z: 0}
+  post2: {x: 0.00080008985, y: -0.050599985, z: 0}
+  resize: 1
+  repost: 1
+  idleAnimated: 0
+  stackable: 0

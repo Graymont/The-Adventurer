@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e34cffa6a2b6445b4ad5120f5e7e63, type: 3}
+  m_Name: irondagger
+  m_EditorClassIdentifier: 
+  name: irondagger
+  displayname: Iron Dagger
+  sprite: {fileID: 21300000, guid: 09a253b54953370418bc9d531b2fe08c, type: 3}
+  inventoryDisplay: {fileID: 21300000, guid: e5dd4ed6c23ca4a4aa2f28f687688380, type: 3}
+  id: 0
+  sort: 10
+  level: 0
+  type: 2
+  category: 2
+  combatStyle: 0
+  rarity: 70
+  damageMin: 10
+  damageMax: 15
+  attackSpeed: 1
+  attackRange: 5
+  health: 0
+  mana: 0
+  armor: 0
+  projectile: {fileID: 0}
+  projectileSpeed: 0
+  rarityDrop: 0
+  attackSpeedBonus: []
+  criticalChance: []
+  criticalDamage: []
+  spellDamage: []
+  healthRegen: []
+  manaRegen: []
+  movementSpeed: []
+  strength: []
+  dexterity: []
+  agility: []
+  intelligence: []
+  description: 
+  size: {x: 0.23600444, y: 0.2603817, z: 0}
+  post: {x: 0.069, y: -0.022, z: 0}
+  size2: {x: 0, y: 0, z: 0}
+  post2: {x: 0, y: 0, z: 0}
+  resize: 1
+  repost: 1
+  idleAnimated: 0
+  stackable: 0

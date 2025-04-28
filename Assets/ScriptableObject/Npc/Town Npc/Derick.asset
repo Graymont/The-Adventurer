@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6671fb123ba460244a48102dc29333eb, type: 3}
+  m_Name: Derick
+  m_EditorClassIdentifier: 
+  name: derick
+  displayname: Derick
+  level: 0
+  deathBodySprite: {fileID: 0}
+  deathBodyObject: {fileID: 0}
+  projectile: {fileID: 0}
+  type: 0
+  category: 0
+  interaction: 0
+  quest: {fileID: 11400000, guid: 05aaf8b3b80efb444a4b52238f6c3bb1, type: 2}
+  health: 0
+  armor: 0
+  damageMin: 0
+  damageMax: 0
+  attackSpeed: 0
+  projectileSpeed: 0
+  attackRange: 0
+  movementSpeed: 0
+  jumpSpeed: 0
+  healthRegen: 0
+  followRange: 0
+  closestTargetRange: 0
+  maxRight: 0
+  maxLeft: 0
+  changeBehaviourCooldown: 0
+  changePathfindCooldown: 0
+  dialog: []
+  idle: 
+  hurt: 
+  walk: 
+  melee: 
+  range: 
+  lootSystem: 0
+  instantDrop: 0
+  drops: []

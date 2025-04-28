@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e34cffa6a2b6445b4ad5120f5e7e63, type: 3}
+  m_Name: ironsword
+  m_EditorClassIdentifier: 
+  name: ironsword
+  displayname: Iron Sword
+  sprite: {fileID: 21300000, guid: ee9816ee8114c014287bc8f347745429, type: 3}
+  inventoryDisplay: {fileID: 21300000, guid: bdbbd3918049e4b458e35bcbe6c70a97, type: 3}
+  id: 0
+  sort: 10
+  level: 0
+  type: 2
+  category: 0
+  combatStyle: 0
+  rarity: 90
+  damageMin: 10
+  damageMax: 20
+  attackSpeed: 1
+  attackRange: 5
+  health: 0
+  mana: 0
+  armor: 0
+  projectile: {fileID: 0}
+  projectileSpeed: 0
+  rarityDrop: 0
+  attackSpeedBonus: []
+  criticalChance: []
+  criticalDamage: []
+  spellDamage: []
+  healthRegen: []
+  manaRegen: []
+  movementSpeed: []
+  strength:
+  - 10
+  - 15
+  - 20
+  dexterity: []
+  agility: []
+  intelligence: []
+  description: 
+  size: {x: 0.3393605, y: 0.25000504, z: 0}
+  post: {x: 0.073, y: -0.032, z: 0}
+  size2: {x: 0, y: 0, z: 0}
+  post2: {x: 0, y: 0, z: 0}
+  resize: 1
+  repost: 1
+  idleAnimated: 0
+  stackable: 0

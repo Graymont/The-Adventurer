@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f08f096afc7cea46ad008b76a25e76f, type: 3}
+  m_Name: Test Quest
+  m_EditorClassIdentifier: 
+  name: kill slime
+  displayname: Finding Materials
+  id: 1
+  level: 1
+  amount: 3
+  targetName: 
+  itemName: 
+  repeatable: 0
+  type: 0
+  deliveryItem: {fileID: 0}
+  rewards:
+  - {fileID: 11400000, guid: 7a15b0d98fa3a374a84f7f021945169e, type: 2}
+  - {fileID: 11400000, guid: 95998e558cd411e43ab517727a1a0824, type: 2}
+  - {fileID: 11400000, guid: 4f2b82e7770d4604698c7967c51b3cc9, type: 2}
+  rewardAmount: 010000000300000005000000
+  story: My daughter need some materials for creating a sword. These weapons are
+    going to used for Margyont;s Army.
+  description: Find Iron Material, found at Del Mountains

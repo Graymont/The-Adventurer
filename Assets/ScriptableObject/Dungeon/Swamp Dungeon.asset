@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87fade4ff2e424498ce04ab7ca4bee0, type: 3}
+  m_Name: Swamp Dungeon
+  m_EditorClassIdentifier: 
+  name: swampdungeon
+  displayname: Swamp Dungeon
+  sprite: {fileID: 0}
+  level: 1
+  dungeonType: 1
+  mob:
+  - {fileID: 11400000, guid: fddc439a22083fc47869ba6f4fc3877e, type: 2}
+  rewards:
+  - {fileID: 11400000, guid: 5ae94baf832cbd040ab071f7666f559f, type: 2}
+  rewardAmount: 01000000
+  totalMob: 3
+  boss: {fileID: 168260027604700543, guid: ebc343e1c5a23a048bb9fb5e4f7d5d53, type: 3}

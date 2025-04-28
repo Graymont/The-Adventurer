@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6671fb123ba460244a48102dc29333eb, type: 3}
+  m_Name: Green Slime 1
+  m_EditorClassIdentifier: 
+  name: greenslime
+  displayname: Green Slime
+  level: 1
+  deathBodySprite: {fileID: 21300000, guid: 05290652d54123b4482148ae03ce7651, type: 3}
+  deathBodyObject: {fileID: 201775063728349980, guid: d6eecb59ef7d9f3469ad194a6aefe7bb, type: 3}
+  projectile: {fileID: 1066260451826645177, guid: 60dfe80bfa3c30541ac9a919fee31a20, type: 3}
+  type: 1
+  category: 1
+  interaction: 0
+  quest: {fileID: 0}
+  health: 100
+  armor: 1
+  damageMin: 50
+  damageMax: 100
+  attackSpeed: 3
+  projectileSpeed: 75
+  attackRange: 25
+  movementSpeed: 5
+  jumpSpeed: 50
+  healthRegen: 0
+  followRange: 70
+  closestTargetRange: 15
+  maxRight: 10
+  maxLeft: 10
+  changeBehaviourCooldown: 5
+  changePathfindCooldown: 15
+  dialog: []
+  idle: slime_idle
+  hurt: slime_hurt
+  walk: slime_walk
+  melee: slime_melee
+  range: slime_range
+  lootSystem: 1
+  instantDrop: 0
+  drops:
+  - {fileID: 11400000, guid: 5ae94baf832cbd040ab071f7666f559f, type: 2}
+  - {fileID: 11400000, guid: 0ffc1d41f46d57247aa330c2699e20bf, type: 2}
+  - {fileID: 11400000, guid: 7ddea5d8462309545b71c91d0d668797, type: 2}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4005d1a9bae0c1544bcb169faf9c1033, type: 3}
+  m_Name: Slash
+  m_EditorClassIdentifier: 
+  name: slash
+  id: 0
+  displayname: Slash
+  sprite: {fileID: 21300000, guid: 7e11eb2689bd968419f11c7262165458, type: 3}
+  level: 1
+  skillType: 4
+  castType: 0
+  projectile: {fileID: 1066260451826645177, guid: 802a11c1d790c4843ab89771308a1d36, type: 3}
+  cooldown: 3
+  damage: 10
+  healAmount: 0
+  dashRange: 0
+  blinkRange: 0
+  castRange: 0
+  aoeRange: 5
+  manaCost: 0
+  healthCost: 0
+  castAmount: 0
+  castDelayInBetween: 0
+  castChannelingTime: 0
+  buffType: 0
+  buffAmplifier: 0
+  buffDuration: 0
+  multiple: 0
+  target: 0
+  animations:
+  - {fileID: 7400000, guid: 98b4a8c151a6da84f8346c7be5cac57b, type: 2}
+  soundEffect: 
+  triggerAnimation: slash

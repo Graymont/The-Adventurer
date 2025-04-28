@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c9703074c40f0f4daff967a22dc3260, type: 3}
+  m_Name: Player Inventory Slot Click
+  m_EditorClassIdentifier: 
+  name: player_inventory_slot_click
+  audio: {fileID: 8300000, guid: fb0406bd354d17146813294d90f83e23, type: 3}
+  pitch: 1
+  volume: 1
+  playOnAwake: 0
+  loop: 0

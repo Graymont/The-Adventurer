@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4005d1a9bae0c1544bcb169faf9c1033, type: 3}
+  m_Name: Reinforced Armor
+  m_EditorClassIdentifier: 
+  name: reinforcedarmor
+  id: 1
+  displayname: Reinforced Armor
+  sprite: {fileID: 21300000, guid: 1d6b3705b9f886a4c838a1c712ba7e82, type: 3}
+  level: 0
+  skillType: 3
+  castType: 0
+  projectile: {fileID: 1066260451826645177, guid: 802a11c1d790c4843ab89771308a1d36, type: 3}
+  cooldown: 5
+  damage: 25
+  healAmount: 0
+  dashRange: 0
+  blinkRange: 0
+  castRange: 0
+  aoeRange: 10
+  manaCost: 0
+  healthCost: 0
+  castAmount: 10
+  castDelayInBetween: 0.2
+  castChannelingTime: 0
+  buffType: 2
+  buffAmplifier: 5
+  buffDuration: 30
+  multiple: 1
+  target: 0
+  animations: []
+  soundEffect: player_skill_reinforcedarmor
+  triggerAnimation: reinforcedarmor
